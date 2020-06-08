@@ -1,4 +1,4 @@
-package abbos2101.fj
+package abbos2101.mat
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

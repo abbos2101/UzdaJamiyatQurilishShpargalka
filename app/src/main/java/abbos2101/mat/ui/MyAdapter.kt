@@ -1,7 +1,7 @@
-package abbos2101.fj.ui
+package abbos2101.mat.ui
 
 import abbos.DatabaseCreate.database.model.MyModel
-import abbos2101.fj.R
+import abbos2101.mat.R
 import android.text.Html
 import android.view.LayoutInflater
 import android.view.View

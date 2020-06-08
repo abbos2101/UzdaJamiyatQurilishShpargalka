@@ -1,4 +1,4 @@
-package abbos2101.fj
+package abbos2101.mat
 
 import org.junit.Test
 
